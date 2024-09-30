@@ -13,7 +13,7 @@ ML Models
 MLOPS
 
 ### 💼 Technical Skills
-![image](https://github.com/user-attachments/assets/5f89b36e-bb4a-4295-b942-659317c07513)
+![Power BI](https://github.com/user-attachments/assets/5f89b36e-bb4a-4295-b942-659317c07513)
 ![image](https://github.com/user-attachments/assets/2072554f-d2da-4936-9b79-eaa7f3c829fe)
 ![image](https://github.com/user-attachments/assets/25dc39fb-1ebb-4fc1-b116-e6957ecb8f6a)
 
