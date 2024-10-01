@@ -1,15 +1,12 @@
 
-<img src="https://github.com/user-attachments/assets/7322d450-611e-46cb-8da1-1bf1ea868eba" alt="Image" >{:style="float: right;margin-right: 7px;margin-top: 7px;"}
-<marquee>Scrolling text over the image</marquee>
 
+![Cover photo](https://github.com/user-attachments/assets/0461ee57-8c33-43b7-9636-95bbe493a752)
 
 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="Centered Image" width="130" height="30">
 </div>
-
-
 
 
 ## <div align="center">I'm Harshit Sharma 👋</div>
